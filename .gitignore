@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv*/
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.zip
+_work/

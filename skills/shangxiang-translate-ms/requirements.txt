@@ -1,0 +1,8 @@
+numpy
+Pillow
+opencv-python
+rapidocr_onnxruntime
+torch
+simple-lama-inpainting
+# 可选：显卡 OCR
+# onnxruntime-gpu
